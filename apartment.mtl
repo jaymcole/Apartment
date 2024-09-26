@@ -1,0 +1,120 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'apartment.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Carpet_Plush_Charcoal
+Ka 0.341176 0.341176 0.341176
+Kd 0.341176 0.341176 0.341176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Carpet_Plush_Charcoal.PNG
+
+newmtl Field_Square_Tile
+Ka 0.85098 0.788235 0.662745
+Kd 0.85098 0.788235 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Field_Square_Tile.PNG
+
+newmtl Tile_Canvas
+Ka 0.780392 0.752941 0.678431
+Kd 0.780392 0.752941 0.678431
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Tile_Canvas.PNG
+
+newmtl Image1
+Ka 0.956863 0.937255 0.815686
+Kd 0.956863 0.937255 0.815686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Image1.PNG
+
+newmtl Image2
+Ka 0.298039 0.294118 0.290196
+Kd 0.298039 0.294118 0.290196
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Image2.PNG
+
+newmtl Image3
+Ka 0.109804 0.105882 0.109804
+Kd 0.109804 0.105882 0.109804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Image3.PNG
+
+newmtl Metal_Seamed
+Ka 0.462745 0.466667 0.45098
+Kd 0.462745 0.466667 0.45098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Metal_Seamed.PNG
+
+newmtl Translucent_Glass_Blue
+Ka 0.392157 0.584314 0.929412
+Kd 0.392157 0.584314 0.929412
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.5
+Tr 0.5
+
+newmtl Image4
+Ka 0.596078 0.45098 0.34902
+Kd 0.596078 0.45098 0.34902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Image4.PNG
+
+newmtl Wood_Veneer_02
+Ka 0.745098 0.501961 0.356863
+Kd 0.745098 0.501961 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Wood_Veneer_02.PNG
+
+newmtl Wood_Veneer_021
+Ka 0.745098 0.501961 0.356863
+Kd 0.745098 0.501961 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Wood_Veneer_021.PNG
+
+newmtl Wood_Veneer_022
+Ka 0.745098 0.501961 0.356863
+Kd 0.745098 0.501961 0.356863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd apartment_Textures/Wood_Veneer_022.PNG
+
+#EOF
